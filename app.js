@@ -199,23 +199,3 @@ app.listen(3000, function(){
 
 
 
-
-// app.get("/work", function(req, res){
-//     res.render("list", {listTitle: "Work List", newListItem: workItems})
-// })
-
-// app.get("/about", function(req, res){
-//     res.render("about")
-// })
-
-
-
- // console.log(req.body)
-
-    // if(req.body.list === 'Work'){
-    //     workItems.push(item);
-    //     res.redirect("/work")
-    // } else {
-    //     items.push(item);
-    //     res.redirect("/");
-    // }
